@@ -1,0 +1,1 @@
+export default ["Débito", "Crédito", "Dinheiro"]
